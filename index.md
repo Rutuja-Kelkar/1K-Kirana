@@ -1,37 +1,201 @@
-## Welcome to GitHub Pages
+**Note :** Hey there, Please read my 1K design story on laptop/desktop for better website ecperience.
 
-You can use the [editor on GitHub](https://github.com/Rutuja-Kelkar/1K-Kirana/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Author :** Rutuja Kelkar
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Published on :** 18th March 2022
 
-### Markdown
+**Project quality, depth & content :** High, 10 min read
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Let's connect :** 
+<rutujakelkar.tech@gmail.com> | [My webiste](https://www.rutujakelkar.com/) | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
 
-```markdown
-Syntax highlighted code block
+**********************************************************************************************************************************************************************************
 
-# Header 1
-## Header 2
-### Header 3
+## Why I applied to 1K kirana's design position 
+**March 2022**
 
-- Bulleted
-- List
+Righ from childhood, I enjoyed working on challenging & high quality problems. It was my stuff :)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+  
+  Since it was complete lockdown in 2020, we were forced to sit at home and the only things that I could experiment was with a laptop and an internet connection. I started searching what was I good at and found : I was decent at delivering topics since I had done it multiple times at my college and events. Plus I had observed a tremendous skill gap between what was taught in college and present industry requirements. So, I decided to start a skill development platform to help build real life skills to engineering grads / learners. 
+  
+  I conducted webinars, open discussion sessions, developed an integrated webinar system that had automated emails, certificate generation, registration forms, timely reminders, integrations and by oct 2020 I had a whole handbook on "How to conduct webinar's from scratch".
+  
+  I hosted topics like "How to crack interview rounds", "How to build resume", "how to communicate well", "how to crack technical rounds". I knew C and html language too, took sessions for the same - These were few topics my small mind could think of back then. Made use of multiple tools like hubspot, trello, google analytics, bitly, code etc to pull off the entire process.
+   
+   Soon I realised building was not enough and marketing was next big challenge came my way. I built a small team of 2 juniors from my engineering college and delegated work to them, since it was foolish to do everything alone. In leass than 6 months a 3000+ student member community was built which helped them learn real life skills, make themselves valuable and competitive in the market.
+  
+## Challenges faced while building digi_info
+  
+ When I decided to work on digi_info I knew nothing about : 
+ 
+  1.  How to build a webinar system.
+  2.  How to make your product / service valuable.
+  3.  How to build a strong community.
+  4.  How to reach your target audience.
+  5.  How to convert and retain your audience.
+  6.  How to segment audience according to your product and grow in compaunded rates.
+  7.  How to market.
+  8.  How to advertise.
+  9.  How to stand out and compete with exiting solutions in the market.
+  10. How to tap in people's mind about your product / idea
+  11. How to deliver topics effectively.
+  12. Ho to talk with people in a convincing manner
+  13. How to get things done in zero budget (because I had no budget at that point of time)
+  14. How to build a team etc 
 
-[Link](url) and ![Image](src)
-```
+Damn! I knew nothing !
+   
+   But I learnt it all because I was resilient enough to say to myself : "Hey there, you'll figure out + there was clear target in my mind". I kept on failing, but everytime I failed or people around me pointed my mistakes, those points were noted and I made sure it was improved the next time. I was able to pull this off in less than 3 months, observed myself working lightning fast and improvise on the way. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Learnt all this and more because I loved solving these high quality challenges. I studied community and marketing models of companies in depth. You may have a great product, but unless you have great distribution which is value based, your customers will not stick with you. A community model has the power to penetrate to your customers heart.
 
-### Jekyll Themes
+All my learnings, process and set up is documented for future use. I love documentating stuff! I can go back to conducting webinars anytime I wish too! And Guess what all this was built without spending a single penny, all I spent was my time, curiosity, power supply and an internet connection.
+<br>
+<br>
+<br>
+#### **I made a few mistakes :** 
+  - In the initial days I tried to ghost myself and not revel my complete identity due to poor               confidence, which was a bad idea and it would never work in long run.
+  - I was obsessed with doing it all alone, but later realised its faster when you delegate tasks &         build a strong team, having them a say in the process.
+  - Everytime I conducted a webinar, I noted the mistakes and made sure to improvise next time.<br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rutuja-Kelkar/1K-Kirana/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Below is the detailed information on digi_info venture for those interested in reading indepth problem solving, take a look ! <br>
+<br>
+<br>
 
-### Support or Contact
+**************************************************************************************************************************************************************************
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br>
+<br>
+#### **Indepth Information regarding digi info venture**
+<br>
+<br>
+## Expected | Acctual impact
+In july 2020, After I realised I was decent at delivering topics and had a clear vision on building a platform to bridge skill gap between colleges and present industry requirements I immedialtely faced 3 major questions that would define the entire story and outcome of digi_info :
+
+  - Vision of digi_info venture
+  - What exactly I'm going to offer as a service/ product ? 
+  - Who is my end user ?
+<br>
+<br>
+<br>
+#### **Vision of digi_info :**
+To build a platform to bridge skill gap between what was taught in college and present industry requirements.
+<br>
+<br>
+<br>
+#### **Factors that led me to work on this vision** :
+- Personally, its was my last semester of engineering plus I had palcements offers, hence there was loads of time to think and build something cool at home during pandemic.<br>
+
+- College system was quite frustrating, those long assignments / exams had no real world application nor was useful in the real world. Plus the syllabus was way too behind than the present industry requirements. None of it was hands on / project based learning.
+<br>
+  _I'm not the only one saying  this, take a look at [Sundar pichai's](https://www.youtube.com/watch?v=-    J2vedFn8KA), [Naval Ravikant's](https://www.youtube.com/watch?v=_YltxkgTyvE) take on the same._ <br>
+
+- College kills the very defination of "learning" itself : they made students memory cards instead of making them CPU's.<br>
+
+- Most colleges (not all) were built on business models making student's their customers and "placements" as key selling point. <br>
+
+- Colleges kills curiosity and experimental nature and make student's risk averse. <br>
+
+- Stay stuck in a system and think of survival all their life. <br>
+  
+- Lastly, the enginering employment rates among youth sore due to lack of real life skills.<br>
+    _Take a look at [India today's article](https://www.indiatoday.in/education-today/featurephilia/story/80-engineers-are-unemployed-how-can-we-prepare-engineers-for-the-jobs-of-tomorrow-1468240-2019-03-01) on unemployment._ <br>
+<br>
+<br>
+Since all my friends and me were experiencing the exact same mentioned above, I had a strong urge and vision to solve above issues and generate enough skill plus awareness among youth to make themselves valuable in the world. Real education is free, mostly accquired by observation, experimentation, hands on learning and hence all my sessions were conducted for free.<br>
+<br>
+<br>
+The next challege I came across was to find out what exact service / product should I offer to solve the above mentioned issues. <br> 
+<br>
+<br>
+####  **What exactly I offered** :
+I started small with available resourses at hand and decided to conduct :
+- Webinar sessions
+- Open discussion sessions 
+- Informative blogs / posts
+- Type of venture : Business to consumer (B2C, services, contributing my time)
+<br>
+<br>
+<br>
+#### **Who was my end user** :
+By now my audience / end user were crystal clear. I exactly knew :
+- who I was targeting 
+- what were their pain points 
+- what are their desires / needs / mental models / level of awareness
+- And what value based outcomes I was expecting for them after they experience my webinars / sessions.  
+
+Take a look at my simple [Ideal customer profile](https://plastic-cabinet-72f.notion.site/Ideal-customer-profile-0159ea041e284136bde9fdfbbf017d63) and [value based outcomes](https://plastic-cabinet-72f.notion.site/Value-based-outcomes-after-attending-my-webinars-sessions-0aa54e6d13e9439fa6d7f76ed21cc1ef) I expected after my audience experiences my webinar / sessions.
+<br>
+<br>
+<br>
+#### **Expected vs actual reports** :
+The best and simple method I used to create report and track visibility of the project were google sheets and notion workspace.
+
+- [Check out](https://plastic-cabinet-72f.notion.site/Digi-info-Detailed-Project-Reports-c957e2c9da3f4d31bab912ddee5d5327) all project reports \
+- [Overall Project report](https://plastic-cabinet-72f.notion.site/Overall-project-report-digi-info-ae2b54c79d444b5f857aaf1f6d747bb0) Contains the following :
+  - Digi info growth in percentage vs time 
+  - Expected KPI vs achieved KPI
+  - Quality of webinar delivery in percentage vs s.no of webinar
+  - Speed of execution in percentage vs time 
+  - Individual contributor productivity in percentage vs s.no of webinar
+  - Audience conversion numbers (community growth) vs s.no of webinar
+  - Design / dev / QA productivity vs timeline
+  - Audience satisfaction in percentage vs s.no of webinar
+  - Expenditure (my time & effort + a laptop connection) in percentage vs s.no of webinar \
+- [1st webinar report](https://plastic-cabinet-72f.notion.site/1st-webinar-reports-b05c925080fe43488a67b5ce4fa9dbc4)<br />
+- [2st webinar report](https://plastic-cabinet-72f.notion.site/2nd-webinar-reports-9e7612e2482c4ae182fc5e0008429d1c)<br />
+- [3rd webinar report](https://plastic-cabinet-72f.notion.site/3rd-webinar-reports-3ebdaef8daa8494b8256092709d3e5da)<br />
+- [4th webinar report](https://plastic-cabinet-72f.notion.site/4th-webinar-reports-6f4d0dc3b2ee4cd6970b1059684ed8fb)<br />
+- [Marketing reports (community model)](https://plastic-cabinet-72f.notion.site/Marketing-reports-Community-model-0c10f3be8b7748ab879da4b3300412c0)<br />
+- [Design report](https://plastic-cabinet-72f.notion.site/Design-report-2c852ad3b00247aca55910805a7dc4c5)<br />
+- [Development report](https://plastic-cabinet-72f.notion.site/Development-report-e352bc2b6caf4e34837b59cf92e46ae4)<br />
+- [Quality assurance report](https://plastic-cabinet-72f.notion.site/Quality-assurance-report-efa53174c2624346bd02d3e6be726e19)<br />
+- [Project health report](https://plastic-cabinet-72f.notion.site/Project-health-report-e37dccf9a86349e2a515082bdc8aa3d3)<br />
+- [Iteration report](https://plastic-cabinet-72f.notion.site/Iterations-report-3474811cf2364c988e8396458768190d)<br />
+<br>
+<br>
+
+## Roadmap| Timeline
+<br>
+#### Created a visual roadmap :
+Now that I had identified my problem statement and clear target audience, my next hurdle was to takle : "How exactly I'm I going to achieve this ?"
+
+Below is a mind map I created to break down the problem into smaller working parts to create an integrated working webinar system
+
+![DIGI INFO_image](https://user-images.githubusercontent.com/66067675/158570180-519791c3-d1c6-4295-b777-3a53bf70cfdb.png)
+
+Here's a [DIGI INFO Mindmap.pdf](https://github.com/Rutuja-Kelkar/digi_info/files/8261278/DIGI.INFO.pdf) for better readability
+
+I also had to come up with a meaningful name for my venture : DIGI INFO, which means digital information. Since my mission was to teach / create awareness about digital skills, hence the name.
+
+
+
+
+## Team | Colloboration 
+ndhegtgfegfv
+;efgb gehf
+ndhgevgvgevn
+
+## Design
+
+## Development 
+
+## Quality assurance
+
+## Live webinar experiences
+
+## Marketing : Community model
+
+## Failures | Mistakes | Iterations
+
+
+**************************************************************************************************************************************************************************
+Thank you for visiting and scrolling through my digi info venture. If you'd like to talk about this project or just chat, I'd love to hear from you :)
+
+
+**Let's connect :** 
+<rutujakelkar.tech@gmail.com> | [My Webiste](https://www.rutujakelkar.com/) | [Twitter](https://twitter.com/therutujakelkar) | [Linkedln](https://www.linkedin.com/in/rutuja-kelkar/) | [Behance](https://www.behance.net/RutujaKelkarDesigns) | [Github](https://github.com/Rutuja-Kelkar) | [Youtube](https://www.youtube.com/channel/UCiqB7um9VmhUrFlUv-6X4LQ) | [Medium](https://medium.com/@Rutuja.Kelkar)
+
+-Rutuja Kelkar
