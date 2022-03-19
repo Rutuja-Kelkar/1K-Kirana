@@ -11,7 +11,7 @@
 
 **********************************************************************************************************************************************************************************
 
-## Why I applied to 1K kirana's design position 
+## Why I applied to 1K kirana bazaar's design position 
 **March 2022**
 
 Righ from childhood, I enjoyed working on challenging & high quality problems. It was my stuff :)
@@ -25,14 +25,9 @@ I found this problem quite interesting and challenging and hence I applied to 1K
 
 [Here's how ](https://rutuja-kelkar.github.io/redo/) the design task looks like, I'll be solving this problem statement in rest of this article.
 
-
-
-
-
- 
   
-  
-## Challenges faced while building wallet app
+## Challenges faced while designing the wallet app
+I had never working earlier on a pa
   
  
   
@@ -43,55 +38,55 @@ I found this problem quite interesting and challenging and hence I applied to 1K
 
 <br>
 <br>
-#### **Indepth Information regarding wallet app venture**
-<br>
-<br>
-## Expected | Acctual impact
+#### **Indepth Information regarding wallet app **
 
+<br>
+<br>
+## ## Roadmap| Timeline 
 <br>
 <br>
 <br>
 #### **Vision of wallet app :**
-
 <br>
 <br>
 <br>
-#### **Factors that led me to work on this vision** :
-
-
 ####  **What exactly I designed ** :
-I started small with available resourses at hand and decided to conduct :
 
-<br>
 #### **Who was my end user** :
 
 #### **Expected vs actual reports** :
 
 <br>
 <br>
-
-## Roadmap| Timeline
+## UX Research
 <br>
-#### Created a visual roadmap :
+#### **Audience analysis and prsona mapping :**
+<br>
+#### **Relevant data gathering / mapping  :**
+<br>
+#### **How tier 2 / tier 3 cities use wallet app :**
+<br>
+#### **Mapping  insights and empthatic consumer behaviour :**
+<br>
+#### **User interviews :**
+<br>
+#### **Deriving roading level use cases :**
+<br>
+#### **Deriving functional and accessicle use cases  :**
 
-
-
-## Team | Colloboration 
-
-
-## Design
+## UI Design
 
 ## Development 
 
 ## Quality assurance
 
-## Marketing 
+## Marketing approch
 
-## Failures | Mistakes | Iterations
+## Some inputs to improve 1K kirana app 
 
 
 **************************************************************************************************************************************************************************
-Thank you for visiting and scrolling through 1k kirana design story, If you'd like to talk about this project or just chat, I'd love to hear from you :)
+Thank you for visiting and scrolling through my 1k kirana design story, If you'd like to talk about this project or just chat, I'd love to hear from you :)
 
 
 **Let's connect :** 
