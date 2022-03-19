@@ -71,10 +71,11 @@ etc. for users of tier-2 and tier-3 cities.
 <br>
 #### **General data gathering:**
 Following are some of my finding on audience analysis :<br />
-- Broad audience set : tier 2 / tier 3 cities in bharat
+- Broad target audience : tier 2 / tier 3 cities in bharat
 - [List](https://drive.google.com/file/d/1WCbC0hRg3lObqpPomBVfsIp7B5DLNXjI/view) of tier 2 and tier 3 cities in bharat.
-- [Consumer Affordibility in india research paper](https://drive.google.com/file/d/1lGr44iXO4ql9uN2zBB9EXGae3D0szN_Z/view?usp=sharing) in tier 1 / 2/ 3 cities in india.
-- [SlideShare's marj=ket research article](https://www.slideshare.net/PrinsonRodrigues1/market-research-consumer-behavior-and-satisfaction-level-on-use-of-digital-wallet) on "consumer behaviour and satisfaction level on use of digital wallets".
+- [Research paper on ](https://drive.google.com/file/d/1lGr44iXO4ql9uN2zBB9EXGae3D0szN_Z/view?usp=sharing) consumer affordibility in tier 1 / 2 / 3 cities in india.
+- [Research paper on](https://drive.google.com/drive/folders/1og6wQj0OwjZ4QKX47aKkVkRnl5CLRB99) factore impacting the usage of e-wallets in india.
+- [SlideShare's market research article](https://www.slideshare.net/PrinsonRodrigues1/market-research-consumer-behavior-and-satisfaction-level-on-use-of-digital-wallet) on "consumer behaviour and satisfaction level on use of digital wallets".
 - [KPMG report](https://www.afaqs.com/news/mktg/tier-2-and-tier-3-city-consumers-are-more-inclined-towards-contactless-payment-kpmg-report) on "Tier2 and tier 3 city consumers are more inclined towards contact less paymemnts" 
 - [Times of india article](https://www.afaqs.com/news/mktg/tier-2-and-tier-3-city-consumers-are-more-inclined-towards-contactless-payment-kpmg-report) on "digital wallets to take over cash in india leading point-of sale payment method by 2023"
 - [Paytm's blog article ](https://paytm.com/blog/payments/mobile-wallet/types-of-digital-wallets/) on "types of digital e-wallet"
@@ -91,6 +92,7 @@ Digital wallets are highly used to make everyday transactions along with an adde
 
 <br>
 #### **Audience analysis and target persona mapping:**
+
 <br>
 #### **User interviews :**
 <br>
@@ -119,12 +121,45 @@ What are their money generation resources ?
 #### **Mapping insights with empthatic consumer behaviour :**
 <br>
 #### **Deriving creative level use cases :**
+
+Following are some general solved use cases of digital :
+- Money transfer using ultiple methods like bank, mobile no transfer, to self account, wallet transfer etc.
+- Recieve money : using multiple methods of reception money reception.
+- wallet currency : store digital currecy for wallet transactions.
+- Reward system 
+- Loan requests onmultiple 
+- Store important documents like adhaar card, driving lisence, pan card etc 
+- Store identity cards
+- Insurance coverage for multiple options like bike, car, domestic travel, term life, accident etc
+- Multiple investment methods like gold investment, SIP funds, mutual funds etc
+- Merchant payments via contactless technologies
+- Bill payments solutions
+- Money storage - savings
+- Digital access to loyalty schemes
+- Financial guidance
+- Ticket booking etc
+
+Below are few of my creative use cases of e -wallet :
+- Sub-linked wallet for relations like family members etc. 
+- Money split system eg : money split when you go to a restaurant.
+- Pre-assigned budgets for particular needs and wants. eg : Assign 1k for montly kirana.
+- Pre-assigned bugets to a particular profile for 'X' work. For eg : Assign 1k to my son to buy shoes.
+- Schedule payments. For eg : Schedule money transfer at 3:00 pm, 20/03/2022 to 'X' profile.
+- A financial/simple wallet to do list.
+- A financial/simple wallet notes section.
+
 <br>
-#### **Filtering use cases for functional / accesible with business aligment :**
+#### **Filtering use cases for functional / accesible with target audience aligment :**
+
+Since My
 <br>
 #### **Filtering use cases for accesible UI design, development, and quality assurance compatible :**
 <br>
 ## UI Design
+<br>
+#### **UI design inspiration :**
+
+
 <br>
 #### **Low fidelity wireframes :**
 <br>
