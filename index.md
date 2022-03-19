@@ -53,6 +53,9 @@ I started with some
 <br>
 <br>
 #### **Vision of wallet app :**
+To design a dashboard page of a digital wallet which have functionalities similar to a
+physical wallet which can include your documents, Identity photos, digital money,
+etc. for users of tier-2 and tier-3 cities.
 <br>
 <br>
 <br>
@@ -66,24 +69,48 @@ I started with some
 <br>
 ## UX Research
 <br>
-#### **Audience analysis and prsona mapping :**
-
-
+#### **Audience analysis and data gathering:**
+Following are some of my finding on audience analysis :
+-Broad audience set : tier 2 / tier 3 cities.
+-[List](https://drive.google.com/file/d/1WCbC0hRg3lObqpPomBVfsIp7B5DLNXjI/view) of tier 2 and tier 3 cities in bharat.
+-
 <br>
-#### **Relevant data gathering / mapping  :**
-<br>
-#### **How tier 2 / tier 3 cities use wallet app :**
-<br>
-#### **Mapping  insights and empthatic consumer behaviour :**
+#### **Target persona mapping:**
 <br>
 #### **User interviews :**
 <br>
-#### **Deriving roading level use cases :**
+#### **Consumer behaviour:**
+How tier 2 / tier 3 cities use wallet app 
+How do they transfer money?
+How do they receieve money?
+How do they spend?
+How do they think about money?
+What are their money generation resources ?
+Do they plan budget ?
+How do they utilise resoucres ?
 <br>
-#### **Deriving functional and accessicle use cases  :**
-
+#### **Emapthic listening of consumer behaviour:**
+How tier 2 / tier 3 cities use wallet app 
+How do they transfer money?
+How do they receieve money?
+How do they spend?
+How do they think about money?
+What are their money generation resources ?
+<br>
+#### **Mapping insights with empthatic consumer behaviour :**
+<br>
+#### **Deriving creative level use cases :**
+<br>
+#### **Filtering use cases for functional / accesible with business aligment :**
+<br>
+#### **Filtering use cases for accesible UI design, development, and quality assurance compatible :**
+<br>
 ## UI Design
-
+<br>
+#### **Low fidelity wireframes :**
+<br>
+#### **High fidelity wireframes :**
+<br>
 ## Development 
 
 ## Quality assurance
