@@ -1,4 +1,4 @@
-**Note :** Hey there, Please read my 1K design story on laptop/desktop for better website ecperience.
+**Note :** Hey there, Please read my 1K kirana bazaar design story on laptop/desktop for better website ecperience.
 
 **Author :** Rutuja Kelkar
 
@@ -15,9 +15,20 @@
 **March 2022**
 
 Righ from childhood, I enjoyed working on challenging & high quality problems. It was my stuff :)
+Here's my [interesting digi info story](https://www.rutujakelkar.com/) : a skill development platform I built in my last year of engineering (late 2020), resulted in formation of 3000+ student community members. 
+
+At 1K, they are building Bharat’s first network of Offline and Online (O&O) hyperlocal stores. 1K is an asset light model where stores are owned & operated by franchise partners (erstwhile kiranas) while 1K handles the entire sourcing, inventory management, pricing and sales & marketing for each store. The idea is to cater to every need of consumers in these markets leading to higher throughput for our franchise partners ultimately leading to a higher income for the franchisees and better experience for consumers.
+
+I also loved the fact that they are solving for consumers desires first, which will automatically lead to increase in sales & income for their business partners. I totally believe sales & mmarketing with quality services are key factors to success of a start up. [Here's how I learnt sales : project redo](https://rutuja-kelkar.github.io/redo/).
+
+I found this problem quite interesting and challenging and hence I applied to 1K kirana's product design role. Right after application I got a response from HR You've been shortlisted and here's your task to solve to qualify for next round 
+
+[Here's how ](https://rutuja-kelkar.github.io/redo/) the design task looks like, I'll be solving this problem statement in rest of this article.
 
 
-  
+
+
+
  
   
   
