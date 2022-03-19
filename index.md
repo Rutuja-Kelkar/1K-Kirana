@@ -73,9 +73,12 @@ etc. for users of tier-2 and tier-3 cities.
 Following are some of my finding on audience analysis :<br />
 - Broad audience set : tier 2 / tier 3 cities in bharat
 - [List](https://drive.google.com/file/d/1WCbC0hRg3lObqpPomBVfsIp7B5DLNXjI/view) of tier 2 and tier 3 cities in bharat.
-- [Consumer Affordibility in india research paper](https://drive.google.com/drive/folders/1og6wQj0OwjZ4QKX47aKkVkRnl5CLRB99) in tier 1 / 2/ 3 cities in india.
+- [Consumer Affordibility in india research paper](https://drive.google.com/file/d/1lGr44iXO4ql9uN2zBB9EXGae3D0szN_Z/view?usp=sharing) in tier 1 / 2/ 3 cities in india.
+- [SlideShare's marj=ket research article](https://www.slideshare.net/PrinsonRodrigues1/market-research-consumer-behavior-and-satisfaction-level-on-use-of-digital-wallet) on "consumer behaviour and satisfaction level on use of digital wallets".
 - [KPMG report](https://www.afaqs.com/news/mktg/tier-2-and-tier-3-city-consumers-are-more-inclined-towards-contactless-payment-kpmg-report) on "Tier2 and tier 3 city consumers are more inclined towards contact less paymemnts" 
-- [Times of india article](https://www.afaqs.com/news/mktg/tier-2-and-tier-3-city-consumers-are-more-inclined-towards-contactless-payment-kpmg-report) on "digital wallets tok take over cash in india leading point-of sale payment method by 2023"
+- [Times of india article](https://www.afaqs.com/news/mktg/tier-2-and-tier-3-city-consumers-are-more-inclined-towards-contactless-payment-kpmg-report) on "digital wallets to take over cash in india leading point-of sale payment method by 2023"
+- [Paytm's blog article ](https://paytm.com/blog/payments/mobile-wallet/types-of-digital-wallets/) on "types of digital e-wallet"
+- [Paytm's blog article ](https://paytm.com/blog/payments/mobile-wallet/digital-wallets-features-advantages-popularity-and-more/) on "E-wallets features, advantages, popularity and more"
 
 <br>
 #### **Major insights gathered from above data:**
@@ -83,6 +86,9 @@ Following are some of my finding on audience analysis :<br />
 Since I'm from a tier 2 city : Belgaum, karnataka. I deeply understand the mindset of people living there. People living in tier 2 / tier 3 cities are mostly slow paced, they do not run against time to get things done, living education transport food etc is affordable. These cities have **high trust, low ego repos** within society. Cash was pre-dominent means of currency exchange until the advent of e-wallets.
 
 With the advent of e-wallet apps like paytm, phone, UPI monetary transactions are as easy as breathing. Tier 2 / 3 cities have adopted monetary transaction behaviour well. 
+
+Digital wallets are highly used to make everyday transactions along with an added perk of transferring funds from one wallet holder to another wallet holder. One of the most well-known payment platforms is Paytm, known for transforming the habits of spending money.
+
 <br>
 #### **Audience analysis and target persona mapping:**
 <br>
