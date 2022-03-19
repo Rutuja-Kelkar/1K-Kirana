@@ -26,7 +26,7 @@ I found this problem quite interesting and challenging and hence I applied to 1K
 [Here's how ](https://rutuja-kelkar.github.io/redo/) the design task looks like, I'll be solving this problem statement in rest of this article.
 
   
-## Challenges faced while designing the wallet app
+## Challenges I faced while designing the wallet app
 I had never working earlier on a pa
   
  
@@ -35,14 +35,20 @@ I had never working earlier on a pa
  
 
 **************************************************************************************************************************************************************************
-
 <br>
 <br>
 #### **Indepth Information regarding wallet app **
+<br>
+<br>
+## Roadmap| Timeline 
 
-<br>
-<br>
-## ## Roadmap| Timeline 
+The timeline for the given design task was 6 days, HenceI had come up with an accessible solution within 6 days.
+
+Since the vision of the problem was already defined, here's how i broke down the peoblem to rach my solution :
+
+I started with some 
+  
+ 
 <br>
 <br>
 <br>
@@ -54,13 +60,15 @@ I had never working earlier on a pa
 
 #### **Who was my end user** :
 
-#### **Expected vs actual reports** :
 
+#### **Expected vs actual reports** :
 <br>
 <br>
 ## UX Research
 <br>
 #### **Audience analysis and prsona mapping :**
+
+
 <br>
 #### **Relevant data gathering / mapping  :**
 <br>
