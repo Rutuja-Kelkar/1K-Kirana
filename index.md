@@ -69,13 +69,22 @@ etc. for users of tier-2 and tier-3 cities.
 <br>
 ## UX Research
 <br>
-#### **Audience analysis and data gathering:**
-Following are some of my finding on audience analysis :
--Broad audience set : tier 2 / tier 3 cities.
--[List](https://drive.google.com/file/d/1WCbC0hRg3lObqpPomBVfsIp7B5DLNXjI/view) of tier 2 and tier 3 cities in bharat.
--
+#### **General data gathering:**
+Following are some of my finding on audience analysis :<br />
+- Broad audience set : tier 2 / tier 3 cities in bharat
+- [List](https://drive.google.com/file/d/1WCbC0hRg3lObqpPomBVfsIp7B5DLNXjI/view) of tier 2 and tier 3 cities in bharat.
+- [Consumer Affordibility in india research paper](https://drive.google.com/drive/folders/1og6wQj0OwjZ4QKX47aKkVkRnl5CLRB99) in tier 1 / 2/ 3 cities in india.
+- [KPMG report](https://www.afaqs.com/news/mktg/tier-2-and-tier-3-city-consumers-are-more-inclined-towards-contactless-payment-kpmg-report) on "Tier2 and tier 3 city consumers are more inclined towards contact less paymemnts" 
+- [Times of india article](https://www.afaqs.com/news/mktg/tier-2-and-tier-3-city-consumers-are-more-inclined-towards-contactless-payment-kpmg-report) on "digital wallets tok take over cash in india leading point-of sale payment method by 2023"
+
 <br>
-#### **Target persona mapping:**
+#### **Major insights gathered from above data:**
+
+Since I'm from a tier 2 city : Belgaum, karnataka. I deeply understand the mindset of people living there. People living in tier 2 / tier 3 cities are mostly slow paced, they do not run against time to get things done, living education transport food etc is affordable. These cities have **high trust, low ego repos** within society. Cash was pre-dominent means of currency exchange until the advent of e-wallets.
+
+With the advent of e-wallet apps like paytm, phone, UPI monetary transactions are as easy as breathing. Tier 2 / 3 cities have adopted monetary transaction behaviour well. 
+<br>
+#### **Audience analysis and target persona mapping:**
 <br>
 #### **User interviews :**
 <br>
@@ -96,6 +105,10 @@ How do they receieve money?
 How do they spend?
 How do they think about money?
 What are their money generation resources ?
+<br>
+#### **User goals :**
+<br>
+#### ** User journey mapping :**
 <br>
 #### **Mapping insights with empthatic consumer behaviour :**
 <br>
