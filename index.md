@@ -151,9 +151,17 @@ Below are few of my creative use cases of e -wallet :
 <br>
 #### **Filtering use cases for functional / accesible with target audience aligment :**
 
-Since My
+I believe the major goal of design is to make the life of your user as easy as possible and help your user reach their goals in as minimum time as possible.
+
+Hence, below are filetred use cases based on my target user persona :
+
+
 <br>
 #### **Filtering use cases for accesible UI design, development, and quality assurance compatible :**
+
+I come from a wide range of experience starting from design, dev, test, martech, sales and business.
+
+Hence it becomes atmost necessacity for me to undersatnd how my use cases are going to fit in marketing / brand langauge/ messaging. I have a test first approch towards my design, since the use cases that cannot be tested, cannot be shipped. Its of prime importance for me to consider will develop and a test team will test my designs / use cases.
 <br>
 ## UI Design
 <br>
