@@ -241,22 +241,29 @@ But when it comes to cater tier 2 / tier 3 cities the same use cases can be modi
 - Money storage - savings
 - - Online + offline stratergy : Online savings (savings bank account etc) and offline bank / other physical savings.
 - Multiple investment methods like FD, gold investment, SIP funds, mutual funds etc
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online investments (mutual funds, share market etc) and offline bank / other physical investments.
 - Financial guidance
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online financial training guidance and offline tutor based financial education.
 - Ticket booking etc
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online and offline based ticket booking system.
 - Digital access to loyalty / government schemes
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online and offine availibility.
 - Ticket booking etc
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online and offine availibility.
 - Merchant payments via contactless technologies
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online and offine availibility.
 - Insurance coverage for multiple options like bike, car, domestic travel, term life, accident etc
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online and offine availibility.
 - Loan requests on multipleamenities like bike, car, home, health etc
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online and offine availibility.
 
+
+
+My creative use cases online + offline stratergy  :
+- Sub-linked wallet for relations like family members etc. 
+- Money split system eg : money split when you go to a restaurant.
+- Pre-assigned budgets for particular needs and wants. eg : Assign 1k for montly kirana.
+- Pre-assigned bugets to a particular profile for 'X' work. For eg : Assign 1k to my son to buy shoes.
 <br>
 ## UI Design
 <br>
