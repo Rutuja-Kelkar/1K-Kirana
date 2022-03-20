@@ -225,21 +225,21 @@ Below mentioned general use cases use cases are solved to cater digital audience
 But when it comes to cater tier 2 / tier 3 cities the same use cases can be modified using online + offline stratergies. Here's how it can be implemented : 
 
 - Money transfer using multiple methods like bank, mobile no transfer, to self account, wallet transfer etc.
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online wallet to wallet transfer and offline location dependent transfer.
 - Recieve money : using multiple methods of reception money reception.
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online wallet to wallet reception and offline location dependent reception.
 - wallet currency : store digital currecy for wallet transactions.
-- - - Online + offline stratergy : 
+- - Online stratergy : Digital currency wallet.
 - Reward system : Here implementation is online + offline based method.
-- - - Online + offline stratergy : 
+- - Online + offline stratergy : Online rewards and offline location based rewards.
 - Store important documents like adhaar card, driving lisence, pan card etc 
-- - Online + offline stratergy : 
-- Store identity cards
-- - Online + offline stratergy : 
+- - Online stratergy : Online document storage
+- Store identity photos
+- - Online stratergy : Online identity storage
 - Bill payments solutions
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online bill payment and offline store based payments.
 - Money storage - savings
-- - Online + offline stratergy : 
+- - Online + offline stratergy : Online savings (savings bank account etc) and offline bank / other physical savings.
 - Multiple investment methods like FD, gold investment, SIP funds, mutual funds etc
 - - Online + offline stratergy : 
 - Financial guidance
