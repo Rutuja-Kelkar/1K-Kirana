@@ -127,7 +127,7 @@ Following are some general solved use cases of digital :
 - Recieve money : using multiple methods of reception money reception.
 - wallet currency : store digital currecy for wallet transactions.
 - Reward system 
-- Loan requests onmultiple 
+- Loan requests on multiple amenities like bike, car, home, health, business etc
 - Store important documents like adhaar card, driving lisence, pan card etc 
 - Store identity cards
 - Insurance coverage for multiple options like bike, car, domestic travel, term life, accident etc
@@ -151,9 +151,36 @@ Below are few of my creative use cases of e -wallet :
 <br>
 #### **Filtering use cases for functional / accesible with target audience aligment :**
 
-I believe the major goal of design is to make the life of your user as easy as possible and help your user reach their goals in as minimum time as possible.
+I believe the major goal of design is to make the life of your user as easy as possible and help your user reach their goals in as minimum time as possible. The more simple and self-explanatory your design is, the more it grows. The point here is , a lay man should be able to navigate on your app.
 
-Hence, below are filetred use cases based on my target user persona :
+Since my target audience is from tier2 / tier 3 cities the the most effective way to grow your wallet audience is to put **online and offline (OO) stratergies** in place. Having **online and offline (OO) stratergies** stratergies in place will also create a strong sense of **trust** among user leading to a consumer first brand wallet.
+
+Hence, below are filetred use cases based on my target user persona in order of importance:
+
+General solved use cases :
+- Money transfer using multiple methods like bank, mobile no transfer, to self account, wallet transfer etc.
+- Recieve money : using multiple methods of reception money reception.
+- wallet currency : store digital currecy for wallet transactions.
+- Reward system : Here implementation is online + offline based method.
+- Store important documents like adhaar card, driving lisence, pan card etc 
+- Store identity cards
+- Bill payments solutions
+- Money storage - savings
+- Multiple investment methods like FD, gold investment, SIP funds, mutual funds etc
+- Financial guidance
+- Ticket booking etc
+- Digital access to loyalty / government schemes
+- Ticket booking etc
+- Merchant payments via contactless technologies
+- Insurance coverage for multiple options like bike, car, domestic travel, term life, accident etc
+- Loan requests on multipleamenities like bike, car, home, health etc
+
+
+Filtered my creative use cases based on target audience :
+- Sub-linked wallet for relations like family members etc. 
+- Money split system eg : money split when you go to a restaurant.
+- Pre-assigned budgets for particular needs and wants. eg : Assign 1k for montly kirana.
+- Pre-assigned bugets to a particular profile for 'X' work. For eg : Assign 1k to my son to buy shoes.
 
 
 <br>
@@ -161,7 +188,37 @@ Hence, below are filetred use cases based on my target user persona :
 
 I come from a wide range of experience starting from design, dev, test, martech, sales and business.
 
-Hence it becomes atmost necessacity for me to undersatnd how my use cases are going to fit in marketing / brand langauge/ messaging. I have a test first approch towards my design, since the use cases that cannot be tested, cannot be shipped. Its of prime importance for me to consider will develop and a test team will test my designs / use cases.
+Hence it becomes atmost necessacity for me to undersatnd how my use cases are going to fit in marketing / brand langauge/ messaging. I have a test first approch towards my design, since the use cases that cannot be tested, cannot be shipped. Its of prime importance for me to consider how a dev team will develop and a test team will test my designs / use cases.
+
+Uses cases are catogorized based on ease of development, testing and market messaging : 
+
+**Following are use cases that can be easily developed, tested and marketed in house :**
+- Money transfer using multiple methods like bank, mobile no transfer, to self account, wallet transfer etc.
+- Recieve money : using multiple methods of reception money reception.
+- wallet currency : store digital currecy for wallet transactions.
+- Reward system : Here implementation is online + offline based method.
+- Store important documents like adhaar card, driving lisence, pan card etc 
+- Store identity cards
+- Sub-linked wallet for relations like family members etc. 
+- Money split system eg : money split when you go to a restaurant.
+- Pre-assigned budgets for particular needs and wants. eg : Assign 1k for montly kirana.
+- Pre-assigned bugets to a particular profile for 'X' work. For eg : Assign 1k to my son to buy shoes.
+
+
+**Following are use cases that might require extra efforts / 3rd part sources (API's)  for development, testing and marketing :**
+- Bill payments solutions
+- Money storage - savings
+- Multiple investment methods like FD, gold investment, SIP funds, mutual funds etc
+- Financial guidance
+- Ticket booking etc
+- Digital access to loyalty / government schemes
+- Ticket booking etc
+- Merchant payments via contactless technologies
+- Insurance coverage for multiple options like bike, car, domestic travel, term life, accident etc
+- Loan requests on multipleamenities like bike, car, home, health etc
+<br>
+#### **Final use cases and explanation to implement in UI design :**
+
 <br>
 ## UI Design
 <br>
@@ -175,7 +232,7 @@ Hence it becomes atmost necessacity for me to undersatnd how my use cases are go
 <br>
 ## Development 
 
-## Quality assurance
+## Quality assurance design
 
 ## Marketing approch
 
