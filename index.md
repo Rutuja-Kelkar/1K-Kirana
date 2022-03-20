@@ -261,9 +261,22 @@ But when it comes to cater tier 2 / tier 3 cities the same use cases can be modi
 
 My creative use cases online + offline stratergy  :
 - Sub-linked wallet for relations like family members etc. 
+- - Use case explanation : This a good use case for family. For eg : When your children (having their own wallet account) require money, they can send a request to parents wallet account with amount = 'X', inturn parents can approve the request and transfer digital currency to their cildren.
+-  - Online and offline stratergies : Online wallet transfer or offline location based transfer with special rewards. (eg tech : bluetooth)
+
 - Money split system eg : money split when you go to a restaurant.
-- Pre-assigned budgets for particular needs and wants. eg : Assign 1k for montly kirana.
-- Pre-assigned bugets to a particular profile for 'X' work. For eg : Assign 1k to my son to buy shoes.
+- - Use case explanation : This a good use case for multiple situatins where a group of people have to split 'X' amount. For eg : Splitting money in a group of friends / family visiting a restaurant, splitting money while buying a common gift, splitting money while purchasing groceries etc 
+- - Online and offline stratergies : Online money split and offline location based based moneyh split with rewards.(eg tech : bluetooth)
+
+- Pre-assigned budgets for particular needs and wants. 
+- - Use case explanation : This a good use case for multiple situations where an individual has to assign daily / weekly / monthly / yearly budgets for 'X' activity. For eg : Assign 10k/month for groceries etc 
+- - Online strategy : Online budget assignment on the app
+
+- Pre-assigned bugets to a particular profile for 'X' work. (Comes under sub use case of above mentioned use case)
+- - Use case explanation : This a good use case for multiple situations where an individual has to assign daily / weekly / monthly / yearly budgets for 'X' activity to 'Y' profile. For eg : Assign my daughter 70k / year for education etc
+- - Online strategy : Online budget assignment on the wallet app.
+
+
 <br>
 ## UI Design
 <br>
