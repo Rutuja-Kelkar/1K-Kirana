@@ -31,13 +31,13 @@ I had never working earlier on a pa
   
  
   
-#### **I made a few mistakes :** 
+
  
 
 **************************************************************************************************************************************************************************
 <br>
 <br>
-#### **Indepth Information regarding wallet app **
+#### **Indepth Information regarding wallet app**
 <br>
 <br>
 ## Roadmap| Timeline 
@@ -216,8 +216,46 @@ Uses cases are catogorized based on ease of development, testing and market mess
 - Merchant payments via contactless technologies
 - Insurance coverage for multiple options like bike, car, domestic travel, term life, accident etc
 - Loan requests on multipleamenities like bike, car, home, health etc
+
 <br>
 #### **Final use cases and explanation to implement in UI design :**
+
+Below mentioned general use cases use cases are solved to cater digital audience using other apps like paytm, phone pe, google pay etc
+
+But when it comes to cater tier 2 / tier 3 cities the same use cases can be modified using online + offline stratergies. Here's how it can be implemented : 
+
+- Money transfer using multiple methods like bank, mobile no transfer, to self account, wallet transfer etc.
+- - Online + offline stratergy : 
+- Recieve money : using multiple methods of reception money reception.
+- - Online + offline stratergy : 
+- wallet currency : store digital currecy for wallet transactions.
+- - - Online + offline stratergy : 
+- Reward system : Here implementation is online + offline based method.
+- - - Online + offline stratergy : 
+- Store important documents like adhaar card, driving lisence, pan card etc 
+- - Online + offline stratergy : 
+- Store identity cards
+- - Online + offline stratergy : 
+- Bill payments solutions
+- - Online + offline stratergy : 
+- Money storage - savings
+- - Online + offline stratergy : 
+- Multiple investment methods like FD, gold investment, SIP funds, mutual funds etc
+- - Online + offline stratergy : 
+- Financial guidance
+- - Online + offline stratergy : 
+- Ticket booking etc
+- - Online + offline stratergy : 
+- Digital access to loyalty / government schemes
+- - Online + offline stratergy : 
+- Ticket booking etc
+- - Online + offline stratergy : 
+- Merchant payments via contactless technologies
+- - Online + offline stratergy : 
+- Insurance coverage for multiple options like bike, car, domestic travel, term life, accident etc
+- - Online + offline stratergy : 
+- Loan requests on multipleamenities like bike, car, home, health etc
+- - Online + offline stratergy : 
 
 <br>
 ## UI Design
